@@ -10,5 +10,7 @@ which makes it possible to use the Arduino IDE with Teensy.
 Links:
 
 Teensy: http://www.pjrc.com/teensy/
+
 Teensyduino: http://www.pjrc.com/teensy/teensyduino.html
+
 Arduino IDE: http://arduino.cc/
